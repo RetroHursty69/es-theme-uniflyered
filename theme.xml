@@ -114,7 +114,7 @@ version         1.0
       </text>
       <datetime name="md_releasedate">
          <pos>0.5 0.555</pos>
-         <size>0.0375 0.025</size>
+         <size>0.09 0.025</size>
          <color>bba358</color>                  
       </datetime>      
    </view>
